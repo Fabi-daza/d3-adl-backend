@@ -33,6 +33,18 @@ export const projects = [
         "description": "Test",
         "status": "pending",
         "deadline": "2024-12-20"
+      },
+      {
+        "id": 6,
+        "description": "Test",
+        "status": "pending",
+        "deadline": "2024-12-20"
+      },
+      {
+        "id": 7,
+        "description": "Test",
+        "status": "pending",
+        "deadline": "2024-12-20"
       }
     ]
   },
